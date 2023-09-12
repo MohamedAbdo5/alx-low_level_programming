@@ -1,4 +1,4 @@
-#iclude "maim.h"
+#include "maim.h"
 
 /**
  * print_alphabet - utilizes on the _putchar function to print
